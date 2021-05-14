@@ -1,0 +1,11 @@
+{
+    "bottoken": "SELF BOT TOKEN HERE"
+,   "channels": ["1", "2", "3"]
+,   "message": "YOUR MESSAGE HERE"
+,   "betweenSends": 10000
+,   "afkstatus": false
+,   "embed": true
+,   "embedTitle": "TITLE HERE"
+,   "embedColor": "COLOR HERE"
+,   "webhook": "WEBHOOK HERE/ NO USE FOR IT ATM MAYBE FUTURE UPDATE ?"
+}
